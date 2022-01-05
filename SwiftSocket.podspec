@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.author             = { 'Dan Shevlyuk' => 'danshevlyuk@icloud.com' }
   s.social_media_url   = 'http://twitter.com/danshevluk'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.10'
   s.tvos.deployment_target = '9.0'
   s.source   = {
